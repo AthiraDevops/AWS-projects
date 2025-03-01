@@ -1,0 +1,8 @@
+region          = "ap-south-1"
+project_name    = "LAMP"
+environment     = "Development"
+owner           = "Athira"
+cidr_block      = "172.16.0.0/16"
+public_subnets  = "3"
+private_subnets = "3"
+new_bits        = "3"
