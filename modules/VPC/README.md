@@ -1,6 +1,4 @@
-
-```
-# VPC Creation Terraform Module
+### VPC Creation Terraform Module
 
 This Terraform module creates an AWS VPC with public and private subnets, an Internet Gateway, a NAT Gateway, and associated route tables.
 
